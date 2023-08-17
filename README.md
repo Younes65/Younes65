@@ -5,12 +5,11 @@
 <br/>
 <br/>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-<h3>🚀 About Me</h3> 
+
 <h4> I'm Ibrahim younes. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior mobile developer and learning increasingly. </h4>
 
+<img align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="Coder GIF" width="380" height="280">
 
-	
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
