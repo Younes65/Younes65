@@ -1,27 +1,30 @@
-<h1 align="center"> Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5"> --> My Name is Ibrahim Younes, Welcome To My Github Profile </h1>
-
-<!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
-
+<h1 align="center"> Hello everyone! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5"> --> </h1>
 <br/>
 <br/>
 
 
-<h4> I'm Ibrahim younes. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior mobile developer and learning increasingly. </h4>
+<h4> My name is Ibrahim younes. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks and also sloving problems. i have knowledge about oop and solid principles and clean code. For This Moment I'm junior mobile developer with fluter and i am fast learner </h4>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ### Languages and Tools 🛠 : 
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Java](https://img.shields.io/badge/-Java-%23E76A00?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=flat-square&logo=kotlin)
+![XML](https://img.shields.io/badge/-XML-%230085F0?style=flat-square&logo=xml)
+![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=flutter)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=androidstudio)
+![SQL](https://img.shields.io/badge/-SQL-%23CC2927?style=flat-square&logo=sql)
+![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat-square&logo=firebase)
+
+
 
 
 
@@ -65,14 +68,4 @@
 
 ---
 
-<br/>
--->
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript  :"D
 
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
