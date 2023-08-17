@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20Everyone%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20Everyone%20;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 <h4> My name is Ibrahim younes. I'm a Front-End Developer. i like creation and building things from scratch. I really enjoy learning Programming languages and frameworks and also enjoy sloving problems. i have knowledge about oop and solid principles and clean code. For This Moment I'm junior mobile developer with flutter and i am fast learner </h4>
