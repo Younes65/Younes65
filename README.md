@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20Everyone%20;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=2A3FFB&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=2A3FFB&vCenter=true&size=22"></a>
 </p> 
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=55px> -->
 <br/>
