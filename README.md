@@ -27,6 +27,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-%23CC2927?style=flat-square&logo=sql)
 ![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat-square&logo=firebase)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Webflow]([https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript](https://img.shields.io/badge/-Webflow-%23146EF5?logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EWebflow%3C%2Ftitle%3E%3Cpath%20d%3D%22m24%204.515-7.658%2014.97H9.149l3.205-6.204h-.144C9.566%2016.713%205.621%2018.973%200%2019.485v-6.118s3.596-.213%205.71-2.435H0V4.515h6.417v5.278l.144-.001%202.622-5.277h4.854v5.244h.144l2.72-5.244H24Z%22%2F%3E%3C%2Fsvg%3E)
+
+
 
 
 
