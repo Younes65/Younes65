@@ -27,7 +27,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-%23CC2927?style=flat-square&logo=sql)
 ![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat-square&logo=firebase)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Webflow](https://img.shields.io/badge/-Webflow-%23146EF5?style=flat-square&logo=webflow)
 
 
