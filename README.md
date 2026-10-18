@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ibrahim%20Younes&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" alt="Ibrahim Younes — Senior Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:1a2a6c,100:a46bff&height=200&section=header&text=Ibrahim%20Younes&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" alt="Ibrahim Younes — Senior Software Engineer" />
 </p>
 
 <p align="center">
@@ -12,15 +12,31 @@
 <p align="center">
   <a href="https://www.ibrahimyounes.online/"><img src="https://img.shields.io/badge/Portfolio-ibrahimyounes.online-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ibrahim-younes-9963b8194/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ibrahimyounes646@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=younes65&style=for-the-badge&color=2C5364&label=Profile+Views" alt="Profile views" />
+  <a href="mailto:younesibrahim198@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🪐 Step Into My Universe
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="340" />
+<p align="center">
+  <a href="https://younes65.github.io/Younes65/">
+    <img src="assets/hero-3d.gif" alt="Interactive 3D universe built with three.js — click to launch" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://younes65.github.io/Younes65/"><img src="https://img.shields.io/badge/▶%20Launch%20Interactive%203D-three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Launch interactive 3D" /></a>
+</p>
+
+<p align="center"><sub>
+  A live <b>three.js</b> scene: my tech stack orbits a morphing core.
+  <b>Drag</b> to orbit · <b>scroll</b> to zoom · <b>hover</b> a planet to learn more · <b>click</b> the core to shatter it.
+</sub></p>
+
+---
+
+## 👨‍💻 About Me
 
 I'm **Ibrahim Younes**, a **Senior Software Engineer** who builds mobile and web products end to end — from architecture and API design to polished, high-performance UIs.
 
@@ -31,8 +47,6 @@ I'm **Ibrahim Younes**, a **Senior Software Engineer** who builds mobile and web
 - ⚡ Fast learner who loves solving hard problems and building things from scratch
 
 🌍 **Learn more about me, my work and my projects at [ibrahimyounes.online](https://www.ibrahimyounes.online/)**
-
-<br clear="right" />
 
 ---
 
@@ -45,7 +59,7 @@ I'm **Ibrahim Younes**, a **Senior Software Engineer** who builds mobile and web
 
 <p align="center"><b>Mobile & Front-End</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,redux,webflow" alt="Mobile and Front-End" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,redux,threejs,webflow" alt="Mobile and Front-End" />
 </p>
 
 <p align="center"><b>Backend & Data</b></p>
@@ -72,39 +86,18 @@ I'm **Ibrahim Younes**, a **Senior Software Engineer** who builds mobile and web
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=younes65&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes65&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=younes65&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=younes65&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=younes65&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.ibrahimyounes.online/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+  <a href="https://www.ibrahimyounes.online/"><img src="https://img.shields.io/badge/Website-ibrahimyounes.online-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/ibrahim-younes-9963b8194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ibrahimyounes646@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://api.whatsapp.com/send?phone=201017768266"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:younesibrahim198@gmail.com"><img src="https://img.shields.io/badge/Gmail-younesibrahim198%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://wa.me/971552852636"><img src="https://img.shields.io/badge/WhatsApp-%2B971%2055%20285%202636-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 <p align="center"><i>Open to senior engineering roles, technical leadership and interesting collaborations.</i></p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a46bff,50:1a2a6c,100:05070d&height=120&section=footer" alt="Footer" />
 </p>
