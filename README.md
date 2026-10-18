@@ -67,7 +67,9 @@ I'm **Ibrahim Younes**, a **Senior Software Engineer** who builds mobile and web
 
 <p align="center"><b>Tools & Workflow</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,windows" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,windows" alt="Tools" />
+  <br />
+  <img src="https://img.shields.io/badge/Cursor-0f2233?style=for-the-badge&logoColor=2dd4bf&logo=cursor" alt="Cursor" />
 </p>
 
 ---
