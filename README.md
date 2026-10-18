@@ -17,26 +17,9 @@
 
 ---
 
-## 🪐 Step Into My Universe
-
-<p align="center">
-  <a href="https://younes65.github.io/Younes65/">
-    <img src="assets/hero-3d.gif" alt="Interactive 3D universe built with three.js — click to launch" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://younes65.github.io/Younes65/"><img src="https://img.shields.io/badge/▶%20Launch%20Interactive%203D-three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Launch interactive 3D" /></a>
-</p>
-
-<p align="center"><sub>
-  A live <b>three.js</b> scene: my tech stack orbits a morphing core.
-  <b>Drag</b> to orbit · <b>scroll</b> to zoom · <b>hover</b> a planet to learn more · <b>click</b> the core to shatter it.
-</sub></p>
-
----
-
 ## 👨‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="340" />
 
 I'm **Ibrahim Younes**, a **Senior Software Engineer** who builds mobile and web products end to end — from architecture and API design to polished, high-performance UIs.
 
@@ -47,6 +30,8 @@ I'm **Ibrahim Younes**, a **Senior Software Engineer** who builds mobile and web
 - ⚡ Fast learner who loves solving hard problems and building things from scratch
 
 🌍 **Learn more about me, my work and my projects at [ibrahimyounes.online](https://www.ibrahimyounes.online/)**
+
+<br clear="right" />
 
 ---
 
@@ -59,7 +44,7 @@ I'm **Ibrahim Younes**, a **Senior Software Engineer** who builds mobile and web
 
 <p align="center"><b>Mobile & Front-End</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,redux,threejs,webflow" alt="Mobile and Front-End" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,redux,webflow" alt="Mobile and Front-End" />
 </p>
 
 <p align="center"><b>Backend & Data</b></p>
