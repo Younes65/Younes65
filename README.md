@@ -25,7 +25,8 @@ I'm **Ibrahim Younes**, a **Senior Software Engineer** who builds mobile and web
 
 - 🏗️ Designing **scalable, maintainable apps** with Clean Architecture, OOP and **SOLID** principles
 - 📱 Shipping cross-platform mobile apps with **Flutter** and native Android with **Kotlin / Java**
-- 🌐 Building modern front-ends with **React, Redux & JavaScript**, backed by **Node.js & Firebase**
+- 🌐 Building modern web apps with **Next.js, React & Redux**, backed by **Node.js, MongoDB, Firebase & Payload CMS**
+- ☁️ Shipping with **Docker** and **Vercel**, automating workflows with **n8n** and building stores on **Shopify**
 - 🧭 Leading code reviews, mentoring developers and setting engineering standards
 - ⚡ Fast learner who loves solving hard problems and building things from scratch
 
@@ -44,12 +45,24 @@ I'm **Ibrahim Younes**, a **Senior Software Engineer** who builds mobile and web
 
 <p align="center"><b>Mobile & Front-End</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,redux,webflow" alt="Mobile and Front-End" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,nextjs,redux,webflow" alt="Mobile and Front-End" />
 </p>
 
 <p align="center"><b>Backend & Data</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql" alt="Backend and Data" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,mysql" alt="Backend and Data" />
+</p>
+
+<p align="center"><b>DevOps & Cloud</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,vercel" alt="DevOps and Cloud" />
+</p>
+
+<p align="center"><b>CMS, Automation & E-commerce</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Payload%20CMS-0f2233?style=for-the-badge&logoColor=2dd4bf&logo=payloadcms" alt="Payload CMS" />
+  <img src="https://img.shields.io/badge/n8n-0f2233?style=for-the-badge&logoColor=2dd4bf&logo=n8n" alt="n8n" />
+  <img src="https://img.shields.io/badge/Shopify-0f2233?style=for-the-badge&logoColor=2dd4bf&logo=shopify" alt="Shopify" />
 </p>
 
 <p align="center"><b>Tools & Workflow</b></p>
